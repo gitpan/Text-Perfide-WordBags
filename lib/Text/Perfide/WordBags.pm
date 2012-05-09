@@ -14,11 +14,11 @@ Text::Perfide::WordBags - Create word bags from text, and operate over them.
 
 =head1 VERSION
 
-Version 0.01_01
+Version 0.01_02
 
 =cut
 
-our $VERSION = '0.01_01';
+our $VERSION = '0.01_02';
 
 =head1 SYNOPSIS
 
@@ -169,44 +169,12 @@ the web interface at L<http://rt.cpan.org/NoAuth/ReportBug.html?Queue=Text-WordB
 automatically be notified of progress on your bug as I make changes.
 
 
-
-
-=head1 SUPPORT
-
-You can find documentation for this module with the perldoc command.
-
-    perldoc Text::Perfide::WordBags
-
-
-You can also look for information at:
-
-=over 4
-
-=item * RT: CPAN's request tracker
-
-L<http://rt.cpan.org/NoAuth/Bugs.html?Dist=Text-WordBags>
-
-=item * AnnoCPAN: Annotated CPAN documentation
-
-L<http://annocpan.org/dist/Text-WordBags>
-
-=item * CPAN Ratings
-
-L<http://cpanratings.perl.org/d/Text-WordBags>
-
-=item * Search CPAN
-
-L<http://search.cpan.org/dist/Text-WordBags/>
-
-=back
-
-
 =head1 ACKNOWLEDGEMENTS
 
 
 =head1 LICENSE AND COPYRIGHT
 
-Copyright 2011 Andre Santos.
+Copyright 2011 Project Natura.
 
 This program is free software; you can redistribute it and/or modify it
 under the terms of either: the GNU General Public License as published

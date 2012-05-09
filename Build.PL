@@ -11,6 +11,12 @@ my $builder = Module::Build->new(
         'Test::More' => 0,
         'Module::Build' => 0,
     },
+	requires => {
+		'Cwd'				=> 0,
+		'File::Basename' 	=> 0,
+		'File::Spec'     	=> 0,
+		'utf8::all'      	=> 0,
+	},
     add_to_cleanup      => [ 'Text-Perfide-WordBags-*' ],
     create_makefile_pl => 'traditional',
 );
